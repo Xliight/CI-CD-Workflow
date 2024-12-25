@@ -8,7 +8,7 @@ pipeline {
 
 
    environment {
-        APP_NAME = "cynamoApp"
+        APP_NAME = "cynamoapp"
         RELEASE = "1.0.0"
         DOCKER_USER = "xlight7"
         DOCKER_PASS = 'dockerhub'
